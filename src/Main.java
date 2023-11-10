@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 //Creare un programma in Java che dato un array di interi abbia i seguenti metodi:
 //a) Scrivere un metodo che a partire da un array calcoli il valore massimo e il valore minimo e
 //stampi l’informazione a video.
